@@ -9,7 +9,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select"
+} from "@/Components/ui/select"
 import { Search, Filter } from "lucide-react"
 import Lawyerdata from "@/data/data.json"
 
